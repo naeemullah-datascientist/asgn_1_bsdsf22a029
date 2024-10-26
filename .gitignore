@@ -50,5 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+<<<<<<< HEAD
 src/naeem_shell
 src/.main.c.swp
+
