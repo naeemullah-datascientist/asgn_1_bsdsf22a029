@@ -97,5 +97,5 @@ Special thanks to the Operating Systems course instructor and teaching assistant
 Special thanks to my TA and mentor:
 
 - [Abdul Qadir](https://github.com/AbdulQadir4) – Teaching Assistant for Operating Systems course
-- [Adif Butt](https://github.com/adifbutt) – Guidance and support throughout the project
+- [Arif Butt](https://github.com/arifbutt) – Guidance and support throughout the project
 ---
